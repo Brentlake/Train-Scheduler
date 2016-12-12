@@ -1,0 +1,49 @@
+body{
+	padding:15px;
+}
+h1{
+	font-family: 'Bitter', serif;
+	text-align:center;
+	te;
+}
+p{
+	font-family: 'Bitter', serif;
+	text-align:center;
+	color:white;
+}
+
+th{
+	font-family: 'Bitter', serif;
+}
+
+#name{
+	font-family: 'Bitter', serif;
+}
+
+#dest{
+	font-family: 'Bitter', serif;
+}
+
+#start{
+	font-family: 'Bitter', serif;
+}
+
+#frequecy{
+
+	font-family: 'Bitter', serif;
+}
+label{
+	font-family: 'Bitter', serif;
+}
+#tbody{
+	font-family: 'Bitter', serif;
+}
+
+h3{
+	font-family: 'Bitter', serif;
+
+}
+.jumbotron{
+	background:green;
+	color:white;
+}
