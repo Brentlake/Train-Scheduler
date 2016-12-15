@@ -18,10 +18,10 @@
       event.preventDefault()
 
 
-      name = $("#name").val().trim();
-      role = $("#dest").val().trim();
-      start = $("#start").val().trim();
-      monthly = $("#frequency").val().trim();
+     var  name = $("#name").val().trim();
+     var role = $("#dest").val().trim();
+      var  start = $("#start").val().trim();
+      var monthly = $("#frequency").val().trim();
 
       database.ref().push({
           name: name,
@@ -83,4 +83,3 @@
       console.log("Errors handled: " + errorObject.code);
   });
 });
-    
