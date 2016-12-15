@@ -75,7 +75,7 @@
       var trTag = $("<tr>");
       
 
-      trTag.append("<td>" + name + "</td>" + "<td>" + start + "</td>" + "<td>" + monthly + "</td>" + "<td>" + arrivalTime + "</td>" + "<td>" + tMinutesTillTrain + "</td>" + "<td>");
+      trTag.append("<td>" + name + "</td>" + "<td>" + role + "</td>" + "<td>" + monthly + "</td>" + "<td>" + arrivalTime + "</td>" + "<td>" + tMinutesTillTrain + "</td>" + "<td>");
       $("#tbody").append(trTag);
 
       // Handle the errors
